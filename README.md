@@ -56,4 +56,4 @@ We do not knowingly collect personal data from children.
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact:
-📧 lmting03@gmail.coml
+📧 lmting03@gmail.com
