@@ -1,6 +1,6 @@
-# Account Deletion Request – Habit Tracker App
+# Account Deletion Request – Habitoo App
 
-This page is for users of **Habit Tracker App** developed by **Habitoo**.
+This page is for users of **Habitoo App** developed by **Habitoo**.
 
 ## How to request account deletion
 To request deletion of your account and associated data, please email:
